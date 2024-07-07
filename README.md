@@ -1,3 +1,8 @@
+Go to child-app build folder in terminal and run following commands
+   npm install -g http-server
+   http-server --cors -p 5173
+
+
 ###  Q1- Is file structure of build and dist folder different? 
 
 >>> Yes, the file structure of the `build` and `dist` folders can be different, depending on the tools and configurations used to generate them. Here are the common distinctions:
